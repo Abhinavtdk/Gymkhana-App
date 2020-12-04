@@ -18,4 +18,8 @@
     </string>
     <string name="president">President</string>
     <string name="vice_president">Vice President</string>
+    <string name="gsec_sports">Sports and Games</string>
+    <string name="gsec_science">Science and Technology</string>
+    <string name="gsec_socio">Socio - Cultural</string>
+    <string name="gsecs">General Secretaries:</string>
 </resources>
